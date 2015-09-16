@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說賢首經
+#+DATE: 2015-08-30 20:12:39.921336
+#+PROPERTY: JUAN 0
