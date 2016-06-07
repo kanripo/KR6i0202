@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:12:41.197964
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:53
 #+TITLE: 佛說賢首經
 #+PROPERTY: CBETA_ID T14n0570
 #+PROPERTY: ID KR6i0202
